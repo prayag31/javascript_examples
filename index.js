@@ -57,4 +57,3 @@ function girlsname(el){
         students.filter(boysname).length
         )
     
-});
